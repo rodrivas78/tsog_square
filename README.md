@@ -5,6 +5,8 @@
  //The Sounds Of Geometry (or The Sounds of Math)
   //Square (v.1.0.2) - by Rodrigo Gonzales (Rodrivas78) - 2022
 
+  For a more detailed description of the project: https://rodrivas78.itch.io/the-sounds-of-geometry-square 
+
    Instructions:
  	
   The interaction with the polygon takes place through the keyboard.
